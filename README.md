@@ -1,2 +1,2 @@
 # login-html-css-js
-![](UI\UI.PNG)
+<img src="UI\UI.PNG">
